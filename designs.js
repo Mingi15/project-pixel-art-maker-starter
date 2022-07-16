@@ -1,5 +1,4 @@
 
-
 const $tableElement = $('#pixelCanvas');
 const $inputHeight = $('#inputHeight');
 const $inputWidth = $('#inputWidth');
